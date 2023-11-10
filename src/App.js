@@ -4,7 +4,7 @@ import facebook from './assets/facebook.png'
 import linkedin from './assets/linkedin.png'
 import project1 from './assets/project-1.jpg'
 import project2 from './assets/project-2.jpg'
-import studorlio from './assets/studorlio.png'
+
 function App() {
   return (
     <div className="App">
